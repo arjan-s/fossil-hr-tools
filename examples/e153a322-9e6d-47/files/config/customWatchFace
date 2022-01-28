@@ -1,0 +1,1 @@
+{"layout":[{"size":{"w":240,"h":240},"pos":{"x":120,"y":120},"type":"image","name":"5fb8dc97a514710025b2e1a5_00.raw"},{"size":{"w":76,"h":76},"pos":{"x":64,"y":124},"type":"comp","name":"weatherSSE","goal_ring":false,"color":"white","bg":"_00.rle"},{"size":{"w":76,"h":76},"pos":{"x":173,"y":126},"type":"comp","name":"dateSSE","goal_ring":false,"color":"white","bg":"_01.rle"}]}
